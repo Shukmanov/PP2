@@ -78,5 +78,6 @@ print("We are the so-called \"Vikings\" from the north.")
 
 print("o namae wa? \"kuysi\" des")
 
+print("jda")
 
 
