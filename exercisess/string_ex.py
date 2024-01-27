@@ -76,6 +76,7 @@ print(anime_ex2.format(STANDO, name3, surname))
  # double ""
 print("We are the so-called \"Vikings\" from the north.")
 
+print("o namae wa? \"kuysi\" des")
 
 
 
