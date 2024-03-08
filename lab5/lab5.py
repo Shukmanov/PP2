@@ -1,1 +1,1 @@
-print("i did it? I can use GIT normally? are kiding me...")
+print("check git")
