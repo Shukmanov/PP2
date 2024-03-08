@@ -11,7 +11,7 @@ print(count/len(list_of_numbers))
 #second one
 
 just_word = "ksoehfshdej"
-glas = 0;
+glas = 0
 for letter in just_word:
     if(letter == "o" or letter == "e" or letter == "i" or letter == "u" or letter == "a"):
         glas += 1
@@ -41,7 +41,7 @@ for number1 in double_mussive:
         double_massive_sum += number2
     double_massive_sum += number1
 
-print(double_mussive_sum)
+print(double_massive_sum)
 
 """""
 not finished yet
